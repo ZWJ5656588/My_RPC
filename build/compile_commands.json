@@ -1,0 +1,140 @@
+[
+{
+  "directory": "/home/zwj20011004/desktops/github/proto_rpc/build",
+  "command": "/usr/bin/g++ -I/home/zwj20011004/desktops/github/proto_rpc/network/src/../include -g -g -o network/src/CMakeFiles/network.dir/Acceptor.cc.o -c /home/zwj20011004/desktops/github/proto_rpc/network/src/Acceptor.cc",
+  "file": "/home/zwj20011004/desktops/github/proto_rpc/network/src/Acceptor.cc",
+  "output": "network/src/CMakeFiles/network.dir/Acceptor.cc.o"
+},
+{
+  "directory": "/home/zwj20011004/desktops/github/proto_rpc/build",
+  "command": "/usr/bin/g++ -I/home/zwj20011004/desktops/github/proto_rpc/network/src/../include -g -g -o network/src/CMakeFiles/network.dir/Buffer.cc.o -c /home/zwj20011004/desktops/github/proto_rpc/network/src/Buffer.cc",
+  "file": "/home/zwj20011004/desktops/github/proto_rpc/network/src/Buffer.cc",
+  "output": "network/src/CMakeFiles/network.dir/Buffer.cc.o"
+},
+{
+  "directory": "/home/zwj20011004/desktops/github/proto_rpc/build",
+  "command": "/usr/bin/g++ -I/home/zwj20011004/desktops/github/proto_rpc/network/src/../include -g -g -o network/src/CMakeFiles/network.dir/Channel.cc.o -c /home/zwj20011004/desktops/github/proto_rpc/network/src/Channel.cc",
+  "file": "/home/zwj20011004/desktops/github/proto_rpc/network/src/Channel.cc",
+  "output": "network/src/CMakeFiles/network.dir/Channel.cc.o"
+},
+{
+  "directory": "/home/zwj20011004/desktops/github/proto_rpc/build",
+  "command": "/usr/bin/g++ -I/home/zwj20011004/desktops/github/proto_rpc/network/src/../include -g -g -o network/src/CMakeFiles/network.dir/Connector.cc.o -c /home/zwj20011004/desktops/github/proto_rpc/network/src/Connector.cc",
+  "file": "/home/zwj20011004/desktops/github/proto_rpc/network/src/Connector.cc",
+  "output": "network/src/CMakeFiles/network.dir/Connector.cc.o"
+},
+{
+  "directory": "/home/zwj20011004/desktops/github/proto_rpc/build",
+  "command": "/usr/bin/g++ -I/home/zwj20011004/desktops/github/proto_rpc/network/src/../include -g -g -o network/src/CMakeFiles/network.dir/EventLoop.cc.o -c /home/zwj20011004/desktops/github/proto_rpc/network/src/EventLoop.cc",
+  "file": "/home/zwj20011004/desktops/github/proto_rpc/network/src/EventLoop.cc",
+  "output": "network/src/CMakeFiles/network.dir/EventLoop.cc.o"
+},
+{
+  "directory": "/home/zwj20011004/desktops/github/proto_rpc/build",
+  "command": "/usr/bin/g++ -I/home/zwj20011004/desktops/github/proto_rpc/network/src/../include -g -g -o network/src/CMakeFiles/network.dir/EventLoopThread.cc.o -c /home/zwj20011004/desktops/github/proto_rpc/network/src/EventLoopThread.cc",
+  "file": "/home/zwj20011004/desktops/github/proto_rpc/network/src/EventLoopThread.cc",
+  "output": "network/src/CMakeFiles/network.dir/EventLoopThread.cc.o"
+},
+{
+  "directory": "/home/zwj20011004/desktops/github/proto_rpc/build",
+  "command": "/usr/bin/g++ -I/home/zwj20011004/desktops/github/proto_rpc/network/src/../include -g -g -o network/src/CMakeFiles/network.dir/EventLoopThreadPool.cc.o -c /home/zwj20011004/desktops/github/proto_rpc/network/src/EventLoopThreadPool.cc",
+  "file": "/home/zwj20011004/desktops/github/proto_rpc/network/src/EventLoopThreadPool.cc",
+  "output": "network/src/CMakeFiles/network.dir/EventLoopThreadPool.cc.o"
+},
+{
+  "directory": "/home/zwj20011004/desktops/github/proto_rpc/build",
+  "command": "/usr/bin/g++ -I/home/zwj20011004/desktops/github/proto_rpc/network/src/../include -g -g -o network/src/CMakeFiles/network.dir/InetAddress.cc.o -c /home/zwj20011004/desktops/github/proto_rpc/network/src/InetAddress.cc",
+  "file": "/home/zwj20011004/desktops/github/proto_rpc/network/src/InetAddress.cc",
+  "output": "network/src/CMakeFiles/network.dir/InetAddress.cc.o"
+},
+{
+  "directory": "/home/zwj20011004/desktops/github/proto_rpc/build",
+  "command": "/usr/bin/g++ -I/home/zwj20011004/desktops/github/proto_rpc/network/src/../include -g -g -o network/src/CMakeFiles/network.dir/Poller.cc.o -c /home/zwj20011004/desktops/github/proto_rpc/network/src/Poller.cc",
+  "file": "/home/zwj20011004/desktops/github/proto_rpc/network/src/Poller.cc",
+  "output": "network/src/CMakeFiles/network.dir/Poller.cc.o"
+},
+{
+  "directory": "/home/zwj20011004/desktops/github/proto_rpc/build",
+  "command": "/usr/bin/g++ -I/home/zwj20011004/desktops/github/proto_rpc/network/src/../include -g -g -o network/src/CMakeFiles/network.dir/Socket.cc.o -c /home/zwj20011004/desktops/github/proto_rpc/network/src/Socket.cc",
+  "file": "/home/zwj20011004/desktops/github/proto_rpc/network/src/Socket.cc",
+  "output": "network/src/CMakeFiles/network.dir/Socket.cc.o"
+},
+{
+  "directory": "/home/zwj20011004/desktops/github/proto_rpc/build",
+  "command": "/usr/bin/g++ -I/home/zwj20011004/desktops/github/proto_rpc/network/src/../include -g -g -o network/src/CMakeFiles/network.dir/SocketsOps.cc.o -c /home/zwj20011004/desktops/github/proto_rpc/network/src/SocketsOps.cc",
+  "file": "/home/zwj20011004/desktops/github/proto_rpc/network/src/SocketsOps.cc",
+  "output": "network/src/CMakeFiles/network.dir/SocketsOps.cc.o"
+},
+{
+  "directory": "/home/zwj20011004/desktops/github/proto_rpc/build",
+  "command": "/usr/bin/g++ -I/home/zwj20011004/desktops/github/proto_rpc/network/src/../include -g -g -o network/src/CMakeFiles/network.dir/TcpClient.cc.o -c /home/zwj20011004/desktops/github/proto_rpc/network/src/TcpClient.cc",
+  "file": "/home/zwj20011004/desktops/github/proto_rpc/network/src/TcpClient.cc",
+  "output": "network/src/CMakeFiles/network.dir/TcpClient.cc.o"
+},
+{
+  "directory": "/home/zwj20011004/desktops/github/proto_rpc/build",
+  "command": "/usr/bin/g++ -I/home/zwj20011004/desktops/github/proto_rpc/network/src/../include -g -g -o network/src/CMakeFiles/network.dir/TcpConnection.cc.o -c /home/zwj20011004/desktops/github/proto_rpc/network/src/TcpConnection.cc",
+  "file": "/home/zwj20011004/desktops/github/proto_rpc/network/src/TcpConnection.cc",
+  "output": "network/src/CMakeFiles/network.dir/TcpConnection.cc.o"
+},
+{
+  "directory": "/home/zwj20011004/desktops/github/proto_rpc/build",
+  "command": "/usr/bin/g++ -I/home/zwj20011004/desktops/github/proto_rpc/network/src/../include -g -g -o network/src/CMakeFiles/network.dir/TcpServer.cc.o -c /home/zwj20011004/desktops/github/proto_rpc/network/src/TcpServer.cc",
+  "file": "/home/zwj20011004/desktops/github/proto_rpc/network/src/TcpServer.cc",
+  "output": "network/src/CMakeFiles/network.dir/TcpServer.cc.o"
+},
+{
+  "directory": "/home/zwj20011004/desktops/github/proto_rpc/build",
+  "command": "/usr/bin/g++ -I/home/zwj20011004/desktops/github/proto_rpc/network/src/../include -g -g -o network/src/CMakeFiles/network.dir/util.cc.o -c /home/zwj20011004/desktops/github/proto_rpc/network/src/util.cc",
+  "file": "/home/zwj20011004/desktops/github/proto_rpc/network/src/util.cc",
+  "output": "network/src/CMakeFiles/network.dir/util.cc.o"
+},
+{
+  "directory": "/home/zwj20011004/desktops/github/proto_rpc/build",
+  "command": "/usr/bin/g++ -I/home/zwj20011004/desktops/github/proto_rpc/build/proto_rpc/proto -g -g -o proto_rpc/proto/CMakeFiles/rpc_proto.dir/rpc.pb.cc.o -c /home/zwj20011004/desktops/github/proto_rpc/build/proto_rpc/proto/rpc.pb.cc",
+  "file": "/home/zwj20011004/desktops/github/proto_rpc/build/proto_rpc/proto/rpc.pb.cc",
+  "output": "proto_rpc/proto/CMakeFiles/rpc_proto.dir/rpc.pb.cc.o"
+},
+{
+  "directory": "/home/zwj20011004/desktops/github/proto_rpc/build",
+  "command": "/usr/bin/g++ -I/home/zwj20011004/desktops/github/proto_rpc -I/home/zwj20011004/desktops/github/proto_rpc/network/src/../include -I/home/zwj20011004/desktops/github/proto_rpc/build/proto_rpc/proto -g -g -o proto_rpc/rpc_framework/CMakeFiles/rpc_framework.dir/RpcChannel.cc.o -c /home/zwj20011004/desktops/github/proto_rpc/proto_rpc/rpc_framework/RpcChannel.cc",
+  "file": "/home/zwj20011004/desktops/github/proto_rpc/proto_rpc/rpc_framework/RpcChannel.cc",
+  "output": "proto_rpc/rpc_framework/CMakeFiles/rpc_framework.dir/RpcChannel.cc.o"
+},
+{
+  "directory": "/home/zwj20011004/desktops/github/proto_rpc/build",
+  "command": "/usr/bin/g++ -I/home/zwj20011004/desktops/github/proto_rpc -I/home/zwj20011004/desktops/github/proto_rpc/network/src/../include -I/home/zwj20011004/desktops/github/proto_rpc/build/proto_rpc/proto -g -g -o proto_rpc/rpc_framework/CMakeFiles/rpc_framework.dir/RpcServer.cc.o -c /home/zwj20011004/desktops/github/proto_rpc/proto_rpc/rpc_framework/RpcServer.cc",
+  "file": "/home/zwj20011004/desktops/github/proto_rpc/proto_rpc/rpc_framework/RpcServer.cc",
+  "output": "proto_rpc/rpc_framework/CMakeFiles/rpc_framework.dir/RpcServer.cc.o"
+},
+{
+  "directory": "/home/zwj20011004/desktops/github/proto_rpc/build",
+  "command": "/usr/bin/g++ -I/home/zwj20011004/desktops/github/proto_rpc -I/home/zwj20011004/desktops/github/proto_rpc/network/src/../include -I/home/zwj20011004/desktops/github/proto_rpc/build/proto_rpc/proto -g -g -o proto_rpc/rpc_framework/CMakeFiles/rpc_framework.dir/RpcCodec.cc.o -c /home/zwj20011004/desktops/github/proto_rpc/proto_rpc/rpc_framework/RpcCodec.cc",
+  "file": "/home/zwj20011004/desktops/github/proto_rpc/proto_rpc/rpc_framework/RpcCodec.cc",
+  "output": "proto_rpc/rpc_framework/CMakeFiles/rpc_framework.dir/RpcCodec.cc.o"
+},
+{
+  "directory": "/home/zwj20011004/desktops/github/proto_rpc/build",
+  "command": "/usr/bin/g++ -I/home/zwj20011004/desktops/github/proto_rpc/build/examples -g -g -o examples/CMakeFiles/monitor_proto.dir/monitor.pb.cc.o -c /home/zwj20011004/desktops/github/proto_rpc/build/examples/monitor.pb.cc",
+  "file": "/home/zwj20011004/desktops/github/proto_rpc/build/examples/monitor.pb.cc",
+  "output": "examples/CMakeFiles/monitor_proto.dir/monitor.pb.cc.o"
+},
+{
+  "directory": "/home/zwj20011004/desktops/github/proto_rpc/build",
+  "command": "/usr/bin/g++ -I/home/zwj20011004/desktops/github/proto_rpc/proto_rpc -I/home/zwj20011004/desktops/github/proto_rpc/build/examples -I/home/zwj20011004/desktops/github/proto_rpc/network/src/../include -I/home/zwj20011004/desktops/github/proto_rpc -I/home/zwj20011004/desktops/github/proto_rpc/build/proto_rpc/proto -g -g -o examples/CMakeFiles/protobuf_rpc_client.dir/client.cc.o -c /home/zwj20011004/desktops/github/proto_rpc/examples/client.cc",
+  "file": "/home/zwj20011004/desktops/github/proto_rpc/examples/client.cc",
+  "output": "examples/CMakeFiles/protobuf_rpc_client.dir/client.cc.o"
+},
+{
+  "directory": "/home/zwj20011004/desktops/github/proto_rpc/build",
+  "command": "/usr/bin/g++ -I/home/zwj20011004/desktops/github/proto_rpc/proto_rpc -I/home/zwj20011004/desktops/github/proto_rpc/network/include -I/home/zwj20011004/desktops/github/proto_rpc/build/examples -I/home/zwj20011004/desktops/github/proto_rpc/network/src/../include -I/home/zwj20011004/desktops/github/proto_rpc -I/home/zwj20011004/desktops/github/proto_rpc/build/proto_rpc/proto -g -g -o examples/CMakeFiles/protobuf_rpc_server.dir/server.cc.o -c /home/zwj20011004/desktops/github/proto_rpc/examples/server.cc",
+  "file": "/home/zwj20011004/desktops/github/proto_rpc/examples/server.cc",
+  "output": "examples/CMakeFiles/protobuf_rpc_server.dir/server.cc.o"
+},
+{
+  "directory": "/home/zwj20011004/desktops/github/proto_rpc/build",
+  "command": "/usr/bin/g++ -g -g -o examples/CMakeFiles/test.dir/thread_local.cc.o -c /home/zwj20011004/desktops/github/proto_rpc/examples/thread_local.cc",
+  "file": "/home/zwj20011004/desktops/github/proto_rpc/examples/thread_local.cc",
+  "output": "examples/CMakeFiles/test.dir/thread_local.cc.o"
+}
+]

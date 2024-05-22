@@ -1,0 +1,7 @@
+/work/build/lib/libnetwork.a
+/work/build/lib/librpc_proto.a
+/work/build/lib/librpc_framework.a
+/work/build/lib/libmonitor_proto.a
+/work/build/bin/protobuf_rpc_server
+/work/build/bin/protobuf_rpc_client
+/work/build/bin/test

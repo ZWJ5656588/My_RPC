@@ -1,0 +1,131 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"examples/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 27,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 47,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "/home/zwj20011004/desktops/github/proto_rpc/build/lib",
+			"paths" : 
+			[
+				"examples/libmonitor_proto.a"
+			],
+			"targetId" : "monitor_proto::@714eac15f71a94114fdf",
+			"targetIndex" : 0,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "monitor_proto::@714eac15f71a94114fdf",
+				"index" : 0
+			},
+			"destination" : "/home/zwj20011004/desktops/github/proto_rpc/build/lib",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "/home/zwj20011004/desktops/github/proto_rpc/build/bin",
+			"paths" : 
+			[
+				"examples/protobuf_rpc_server"
+			],
+			"targetId" : "protobuf_rpc_server::@714eac15f71a94114fdf",
+			"targetIndex" : 3,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "protobuf_rpc_server::@714eac15f71a94114fdf",
+				"index" : 3
+			},
+			"destination" : "/home/zwj20011004/desktops/github/proto_rpc/build/bin",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "/home/zwj20011004/desktops/github/proto_rpc/build/bin",
+			"paths" : 
+			[
+				"examples/protobuf_rpc_client"
+			],
+			"targetId" : "protobuf_rpc_client::@714eac15f71a94114fdf",
+			"targetIndex" : 2,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "protobuf_rpc_client::@714eac15f71a94114fdf",
+				"index" : 2
+			},
+			"destination" : "/home/zwj20011004/desktops/github/proto_rpc/build/bin",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "/home/zwj20011004/desktops/github/proto_rpc/build/bin",
+			"paths" : 
+			[
+				"examples/test"
+			],
+			"targetId" : "test::@714eac15f71a94114fdf",
+			"targetIndex" : 6,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "test::@714eac15f71a94114fdf",
+				"index" : 6
+			},
+			"destination" : "/home/zwj20011004/desktops/github/proto_rpc/build/bin",
+			"type" : "cxxModuleBmi"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "examples",
+		"source" : "examples"
+	}
+}

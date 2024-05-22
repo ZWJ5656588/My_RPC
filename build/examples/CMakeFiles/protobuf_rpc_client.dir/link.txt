@@ -1,0 +1,1 @@
+/usr/bin/c++  -g -g  -rdynamic CMakeFiles/protobuf_rpc_client.dir/client.cc.o  -o protobuf_rpc_client  -Wl,-rpath,/usr/local/lib: libmonitor_proto.a ../network/src/libnetwork.a ../proto_rpc/rpc_framework/librpc_framework.a /usr/local/lib/libprotobuf.so ../network/src/libnetwork.a ../proto_rpc/proto/librpc_proto.a /usr/local/lib/libprotobuf.so -lpthread -lprotobuf -lz -lglog 

@@ -1,0 +1,56 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"proto_rpc/proto/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 27,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "/home/zwj20011004/desktops/github/proto_rpc/build/lib",
+			"paths" : 
+			[
+				"proto_rpc/proto/librpc_proto.a"
+			],
+			"targetId" : "rpc_proto::@1fff1f55d28e90ed8fc0",
+			"targetIndex" : 5,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "rpc_proto::@1fff1f55d28e90ed8fc0",
+				"index" : 5
+			},
+			"destination" : "/home/zwj20011004/desktops/github/proto_rpc/build/lib",
+			"type" : "cxxModuleBmi"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "proto_rpc/proto",
+		"source" : "proto_rpc/proto"
+	}
+}

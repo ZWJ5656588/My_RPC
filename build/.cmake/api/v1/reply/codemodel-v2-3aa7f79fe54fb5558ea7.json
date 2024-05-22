@@ -1,0 +1,217 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						3,
+						6
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "network",
+					"childIndexes" : 
+					[
+						2
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-network-Debug-5de104fc96d9b5a94d96.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "network"
+				},
+				{
+					"build" : "network/src",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-network.src-Debug-eeb1dfa82bbd28fa7b63.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "network/src",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "proto_rpc",
+					"childIndexes" : 
+					[
+						4,
+						5
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-proto_rpc-Debug-f3a0cec70078d40138f9.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "proto_rpc"
+				},
+				{
+					"build" : "proto_rpc/proto",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-proto_rpc.proto-Debug-e7f45e26070d234a28e1.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 0,
+					"source" : "proto_rpc/proto",
+					"targetIndexes" : 
+					[
+						5
+					]
+				},
+				{
+					"build" : "proto_rpc/rpc_framework",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-proto_rpc.rpc_framework-Debug-965b6a713fdf4640eb69.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 0,
+					"source" : "proto_rpc/rpc_framework",
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"build" : "examples",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-examples-Debug-5e3f86464423499174b0.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "examples",
+					"targetIndexes" : 
+					[
+						0,
+						2,
+						3,
+						6
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					],
+					"name" : "network_rpc",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 6,
+					"id" : "monitor_proto::@714eac15f71a94114fdf",
+					"jsonFile" : "target-monitor_proto-Debug-5025e227598a729f23c3.json",
+					"name" : "monitor_proto",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "network::@8bf329a2ec613ee141cd",
+					"jsonFile" : "target-network-Debug-f75f72dbf0dc6e5220e1.json",
+					"name" : "network",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "protobuf_rpc_client::@714eac15f71a94114fdf",
+					"jsonFile" : "target-protobuf_rpc_client-Debug-e1f5396f3e8818f7de8d.json",
+					"name" : "protobuf_rpc_client",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "protobuf_rpc_server::@714eac15f71a94114fdf",
+					"jsonFile" : "target-protobuf_rpc_server-Debug-151ab5ba3159b2cef634.json",
+					"name" : "protobuf_rpc_server",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "rpc_framework::@701da3d05ed2dbad1828",
+					"jsonFile" : "target-rpc_framework-Debug-2f77a9ae0e2cca84355f.json",
+					"name" : "rpc_framework",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "rpc_proto::@1fff1f55d28e90ed8fc0",
+					"jsonFile" : "target-rpc_proto-Debug-301b16683386ae35a1fc.json",
+					"name" : "rpc_proto",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "test::@714eac15f71a94114fdf",
+					"jsonFile" : "target-test-Debug-072cc6986f3bbf82f04a.json",
+					"name" : "test",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/zwj20011004/desktops/github/proto_rpc/build",
+		"source" : "/home/zwj20011004/desktops/github/proto_rpc"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
